@@ -1,0 +1,15 @@
+[package]
+name = "sunasty-color-math"
+version = "1.0.0"
+edition = "2021"
+authors = ["Bastien Sulyan <bastien.sulyan@gmail.com>"]
+description = "Zero-dependency sRGB and OKLCH color conversions and WCAG 2.1 accessibility contrast calculation in Rust"
+license = "MIT"
+repository = "https://github.com/bsulyan/sunasty-color-math-rs"
+homepage = "https://sunasty.com/color-picker/"
+documentation = "https://docs.rs/sunasty-color-math"
+readme = "README.md"
+keywords = ["color", "oklch", "wcag", "contrast", "palette"]
+categories = ["graphics", "accessibility", "web-programming"]
+
+[dependencies]
