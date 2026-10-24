@@ -1,0 +1,32 @@
+{
+  "title": "sunasty-color-math-rs: sRGB, OKLCH, and WCAG 2.1 Contrast Calculation in Rust",
+  "description": "Zero-dependency Rust crate for sRGB gamma linearization, relative luminance, and WCAG 2.1 contrast calculation. Developed for the Sunasty web tools platform.",
+  "creators": [
+    {
+      "name": "Sulyan, Bastien",
+      "affiliation": "Sunasty"
+    }
+  ],
+  "access_right": "open",
+  "license": "MIT",
+  "keywords": [
+    "color space",
+    "oklch",
+    "wcag",
+    "accessibility",
+    "rust"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://sunasty.com",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://github.com/bsulyan/sunasty-color-math-rs",
+      "relation": "isDerivedFrom",
+      "scheme": "url"
+    }
+  ],
+  "upload_type": "software"
+}
